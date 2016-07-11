@@ -56,7 +56,7 @@
 	 * Created by Julia on 05.07.2016.
 	 */
 	__webpack_require__(3);
-	document.write(__webpack_require__(7));
+	document.write(__webpack_require__(5));
 
 	console.log(_lodash2.default.isEqual(1, 2));
 
@@ -16503,9 +16503,7 @@
 
 /***/ },
 /* 4 */,
-/* 5 */,
-/* 6 */,
-/* 7 */
+/* 5 */
 /***/ function(module, exports) {
 
 	"use strict";

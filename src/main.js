@@ -1,7 +1,7 @@
 /**
  * Created by Julia on 05.07.2016.
  */
-require('./main.css');
+require('./main.scss');
 document.write(require('./content'));
 
 import _ from 'lodash';
